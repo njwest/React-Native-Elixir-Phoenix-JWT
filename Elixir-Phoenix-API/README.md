@@ -1,6 +1,6 @@
 # Elixir on Phoenix 1.3 JSON Web Token Authentication API
 
-##### App by Nick West. Email: mail@nickwe.st
+##### App by Nick West. Email Nick at mail@nickwe.st
 
 Companion repo for [JWT Auth with an Elixir on Phoenix 1.3 API and React Native, Part I: Phoenix JWT API](https://medium.com/@njwest/jwt-auth-with-an-elixir-on-phoenix-1-3-guardian-api-and-react-native-mobile-app-1bd00559ea51)
 
@@ -59,8 +59,5 @@ With the request header `"Authorization": "Bearer " + jwt`, a client can retriev
   * Docs: https://hexdocs.pm/phoenix
   * Source: https://github.com/phoenixframework/phoenix
 
-## Many thanks!
-
-If you enjoyed this tutorial, consider sending me some crypto tips :)
-
-My Bitcoin address: 1QJuBzHpis4jqQXnSuYxKzGS4Yu3GHhNtX
+#### 🍹 Tips Appreciated 😉
+My Bitcoin address: **1QJuBzHpis4jqQXnSuYxKzGS4Yu3GHhNtX**
