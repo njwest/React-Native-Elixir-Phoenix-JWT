@@ -1,0 +1,3 @@
+rootProject.name = 'jwt_client'
+
+include ':app'
