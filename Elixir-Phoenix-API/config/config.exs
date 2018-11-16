@@ -14,6 +14,9 @@ use Mix.Config
 config :myApi,
   ecto_repos: [MyApi.Repo]
 
+# Use Jason for JSON parsing in Phoenix
+config :phoenix, :json_library, Jason
+
 # Configures the endpoint
 config :myApi, MyApiWeb.Endpoint,
   url: [host: "localhost"],
