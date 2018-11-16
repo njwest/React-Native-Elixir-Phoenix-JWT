@@ -1,8 +1,8 @@
-# Elixir on Phoenix 1.3 JSON Web Token Authentication API
+# Elixir on Phoenix 1.4 JSON Web Token Authentication API
 
 ##### App by Nick West. Email Nick at mail@nickwe.st
 
-Companion repo for [JWT Auth with an Elixir on Phoenix 1.3 API and React Native, Part I: Phoenix JWT API](https://medium.com/@njwest/jwt-auth-with-an-elixir-on-phoenix-1-3-guardian-api-and-react-native-mobile-app-1bd00559ea51)
+Companion repo for [JWT Auth with an Elixir on Phoenix 1.4 API and React Native, Part I: Phoenix JWT API](https://medium.com/@njwest/jwt-auth-with-an-elixir-on-phoenix-1-3-guardian-api-and-react-native-mobile-app-1bd00559ea51)
 
 This is a demo Phoenix Elixir JWT REST API app, using Ueberauth's [Guardian](https://github.com/ueberauth/guardian) package for JWT authentication and riverrun's [Comeonin](https://github.com/riverrun/comeonin)/[bcrypt_elixir](https://github.com/riverrun/bcrypt_elixir) packages for password hashing.
 

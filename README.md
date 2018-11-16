@@ -1,4 +1,4 @@
-# JSON Web Token Authentication: An Elixir on Phoenix 1.3 JWT Auth API with a React Native Client
+# JSON Web Token Authentication: An Elixir on Phoenix 1.4 JWT Auth API with a React Native Client
 
 ##### App by Nick West. Email Nick at mail@nickwe.st
 
